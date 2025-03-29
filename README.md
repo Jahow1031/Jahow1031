@@ -19,7 +19,7 @@
 ---      
 - **🕴️Professional Experience:**
     
-    - IT Business Analyst /Software Engineer: 2022 - Present
+    - IT Business Analyst: 2022 - Present
         - Agile Project Owner Certification: 2022
     - SAP Implementation Functional Business Lead: 2021 - 2024 
     - Operations Management (Manufacturing): 2011 - 2020
