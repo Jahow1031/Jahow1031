@@ -33,7 +33,7 @@
       
 - **🚴Fun Fact:**
   
-    I am a retired Triathlete with a race resume that includes three Ironman 70.3 Triathlons (Boulder, Wisconsin, and Muncie) as well as 20 other endurance races.
+    I am a retired Triathlete with a race resume that includes three Ironman 70.3 Triathlons (Boulder, Wisconsin, and Muncie).
 
 ---
 
