@@ -21,7 +21,7 @@
     
     - IT Business Analyst: 2022 - Present
         - Agile Product Owner Certification: 2022
-    - SAP Implementation Functional Business Lead: 2021 - 2024 
+    - SAP Implementation Business Lead: 2021 - 2024 
     - Operations Management (Manufacturing): 2011 - 2020
     - 3PL Integration Manager: 2007 - 2011
     - Technical Director / AutoCAD Draftsman: 2002 - 2007
